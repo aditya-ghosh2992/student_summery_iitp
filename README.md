@@ -94,7 +94,6 @@ The Python code is organized into two main functions:
 Below is a visual representation of how the program interacts with the user, showing both the input prompts and the final generated summary report.
 
 ![Example Input and Output of Student Marks Summary System]([https://drive.google.com/file/d/1cezL2xiAq3PPSKpNF53dsmZ1FcMrcNqv/view?usp=sharing])
-*Replace `[Path_to_your_input_output_image.png]` with the actual path/URL to your screenshot.*
 
 ## 6. Grading Scale
 
